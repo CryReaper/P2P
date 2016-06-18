@@ -163,6 +163,10 @@ namespace P2PCommands
 		{
 			get { return "Enter text to message your set receiver."; }
 		}
+        public AllowedCaller AllowedCaller
+        {
+            get { return AllowedCaller.Both; }
+        }
 		public List<string> Permissions
 		{
 			get
