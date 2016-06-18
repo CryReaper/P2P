@@ -1,0 +1,5 @@
+D:\Files from Old Windows Installs\laptop files\documents\GitHub\P2P\obj\Debug\P2P.csprojResolveAssemblyReference.cache
+D:\Files from Old Windows Installs\laptop files\documents\GitHub\P2P\bin\Debug\P2P.dll
+D:\Files from Old Windows Installs\laptop files\documents\GitHub\P2P\bin\Debug\P2P.pdb
+D:\Files from Old Windows Installs\laptop files\documents\GitHub\P2P\obj\Debug\P2P.dll
+D:\Files from Old Windows Installs\laptop files\documents\GitHub\P2P\obj\Debug\P2P.pdb

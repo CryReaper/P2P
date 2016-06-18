@@ -91,6 +91,11 @@ namespace P2PCommands
 				return "<message>";
 			}
 		}
+        public AllowedCaller AllowedCaller
+        {
+            get { return AllowedCaller.Both; }
+        }
+
 		public string Help
 		{
 			get { return "Enter text to reply to last received message."; }
